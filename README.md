@@ -46,36 +46,9 @@
 
 ---
 
-### 🎨 Skill Icons (Aesthetic Row)
+### 🎨 Skill Icons
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,js,html,css,linux,git,github,nodejs,vscode&theme=dark" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=parijatdwary&theme=tokyonight&margin-w=10" />
-</p>
-
----
-
-## 📊 GitHub Stats (Auto Updating)
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=parijatdwary&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=parijatdwary&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parijatdwary&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parijatdwary&theme=tokyo-night" />
 </p>
 
 ---
