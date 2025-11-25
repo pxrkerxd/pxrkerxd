@@ -17,7 +17,7 @@
 - 💡 Passionate about AI, software, and system-level development  
 - 🤖 Currently building: **10 AI Voice Agents** (Murf Falcon Challenge)  
 - 💻 Learning: C, Python, JavaScript, Linux, Web Dev  
-- 📚 Exploring: DSA, OS, Digital Electronics  
+- 📚 Exploring: DSA, OS
 - 🎮 Loves Gaming, PC builds, optimization  
 - 🎯 **2025 Goal:** Become skilled in full-stack + AI engineering  
 
