@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">🌌 Hey, I'm <strong>Parijat Dwary</strong> 👋</h1>
-<h3 align="center">🚀 B.Tech Electronics & Computer Science Student | AI • Dev • Creator</h3>
+<h3 align="center">🚀 Computer Science Student | AI • Dev • Creator</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Enthusiast+🔥;Full+Stack+Learner+💻;Electronics+%2B+CS+Student+📘;Building+10+AI+Voice+Agents+🔊;Always+Learning+Always+Creating+⚡">
@@ -72,10 +72,10 @@
 
 ## 🔗 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINK">
+  <a href="https://www.linkedin.com/in/parijat-dwary-813018342/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:YOUR-EMAIL">
+  <a href="parijatdwary@gmail.com">
     <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
