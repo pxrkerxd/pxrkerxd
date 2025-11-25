@@ -6,10 +6,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Enthusiast+🔥;Full+Stack+Learner+💻;CS+Student+📘;Building+10+AI+Voice+Agents+🔊;Always+Learning+Always+Creating+⚡">
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=parijatdwary&label=Profile+Views&color=1E90FF&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/parijatdwary?label=Followers&style=flat-square&color=blue" />
+</p>
+
 ---
 
 ## 🧾 About Me
-- 🎓 First-year B.Tech (ECS) student  
+- 🎓 First-year B.Tech (CSE) student  
 - 💡 Passionate about AI, software, and system-level development  
 - 🤖 Currently building: **10 AI Voice Agents** (Murf Falcon Challenge)  
 - 💻 Learning: C, Python, JavaScript, Linux, Web Dev  
@@ -41,6 +46,20 @@
 
 ---
 
+### 🎨 Skill Icons (Aesthetic Row)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,js,html,css,linux,git,github,nodejs,vscode&theme=dark" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=parijatdwary&theme=tokyonight&margin-w=10" />
+</p>
+
+---
+
 ## 📊 GitHub Stats (Auto Updating)
 
 <p align="center">
@@ -54,8 +73,14 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parijatdwary&theme=tokyo-night" />
+</p>
 
+---
+
+## 🐍 Contribution Snake
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 </p>
