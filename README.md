@@ -1,5 +1,5 @@
 <!-- PROFILE HEADER -->
-<h1 align="center">🌌 Hey, I'm <strong>Parijat Dwary</strong> 👋</h1>
+<h1 align="center">🌌 Hey, I'm <strong>Parijat</strong> 👋</h1>
 <h3 align="center">🚀 Computer Science Student | AI • Dev • Creator</h3>
 
 <p align="center">
