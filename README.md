@@ -13,7 +13,7 @@
 ---
 
 ## 🧾 About Me
-- 🎓 First-year B.Tech (CSE) student  
+- 🎓 Second-year B.Tech (CSE) student  
 - 💡 Passionate about AI, software, and system-level development  
 - 🤖 Currently building: **10 AI Voice Agents** (Murf Falcon Challenge)  
 - 💻 Learning: C, Python, JavaScript, Linux, Web Dev  
