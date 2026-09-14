@@ -145,21 +145,24 @@ parijat@earth-1610:~$ neofetch --profile
 
 <div align="center">
 
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pxrkerxd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="155" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pxrkerxd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="155" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/pxrkerxd">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pxrkerxd&theme=github_dark" alt="Profile Details & Activity Wave" />
+  </a>
 
-  <br/>
+  <br/><br/>
 
   <a href="https://github.com/pxrkerxd">
-    <img src="https://streak-stats.demolab.com/?user=pxrkerxd&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pxrkerxd&theme=github_dark" alt="Top Languages by Commit" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/pxrkerxd">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pxrkerxd&theme=github_dark" alt="Top Languages by Repo" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/pxrkerxd">
+    <img src="https://streak-stats.demolab.com/?user=pxrkerxd&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak" />
   </a>
 
 </div>
